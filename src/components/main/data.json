@@ -1,0 +1,6305 @@
+{
+  "tickets": [
+    {
+      "price": 31686,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T17:09:00.000Z",
+          "stops": [],
+          "duration": 1142
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T07:23:00.000Z",
+          "stops": ["DXB", "IST", "KUL"],
+          "duration": 944
+        }
+      ]
+    },
+    {
+      "price": 44930,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T13:29:00.000Z",
+          "stops": ["AUH"],
+          "duration": 1592
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T23:02:00.000Z",
+          "stops": [],
+          "duration": 799
+        }
+      ]
+    },
+    {
+      "price": 41148,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T23:35:00.000Z",
+          "stops": ["KUL"],
+          "duration": 947
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T14:37:00.000Z",
+          "stops": ["BKK"],
+          "duration": 907
+        }
+      ]
+    },
+    {
+      "price": 93907,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T04:36:00.000Z",
+          "stops": ["SIN", "IST", "KUL"],
+          "duration": 1169
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T09:57:00.000Z",
+          "stops": [],
+          "duration": 1910
+        }
+      ]
+    },
+    {
+      "price": 65053,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T13:21:00.000Z",
+          "stops": ["BKK", "SIN", "DXB"],
+          "duration": 1280
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T15:40:00.000Z",
+          "stops": ["KUL"],
+          "duration": 1485
+        }
+      ]
+    },
+    {
+      "price": 68474,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T11:53:00.000Z",
+          "stops": ["DXB", "SHA", "BKK"],
+          "duration": 1019
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T13:16:00.000Z",
+          "stops": ["SHA"],
+          "duration": 1536
+        }
+      ]
+    },
+    {
+      "price": 81468,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T17:40:00.000Z",
+          "stops": ["HKG"],
+          "duration": 901
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T17:17:00.000Z",
+          "stops": [],
+          "duration": 1492
+        }
+      ]
+    },
+    {
+      "price": 44833,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T04:09:00.000Z",
+          "stops": [],
+          "duration": 1851
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T08:41:00.000Z",
+          "stops": ["BKK"],
+          "duration": 1307
+        }
+      ]
+    },
+    {
+      "price": 89976,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T12:06:00.000Z",
+          "stops": [],
+          "duration": 687
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T03:20:00.000Z",
+          "stops": [],
+          "duration": 624
+        }
+      ]
+    },
+    {
+      "price": 95456,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T05:17:00.000Z",
+          "stops": ["AUH", "SIN", "IST"],
+          "duration": 999
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T10:40:00.000Z",
+          "stops": [],
+          "duration": 1590
+        }
+      ]
+    },
+    {
+      "price": 39052,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T21:27:00.000Z",
+          "stops": ["HKG", "SHA", "IST"],
+          "duration": 959
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T16:15:00.000Z",
+          "stops": ["DXB"],
+          "duration": 1968
+        }
+      ]
+    },
+    {
+      "price": 30199,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T09:56:00.000Z",
+          "stops": ["SHA", "BKK", "AUH"],
+          "duration": 1288
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T17:33:00.000Z",
+          "stops": ["SIN", "AUH", "DXB"],
+          "duration": 817
+        }
+      ]
+    },
+    {
+      "price": 50432,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T03:50:00.000Z",
+          "stops": ["DXB"],
+          "duration": 1015
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T11:08:00.000Z",
+          "stops": ["HKG"],
+          "duration": 1638
+        }
+      ]
+    },
+    {
+      "price": 57344,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T21:06:00.000Z",
+          "stops": ["SHA"],
+          "duration": 1222
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T08:07:00.000Z",
+          "stops": ["HKG", "DXB"],
+          "duration": 1038
+        }
+      ]
+    },
+    {
+      "price": 21019,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T08:15:00.000Z",
+          "stops": ["SHA", "SIN"],
+          "duration": 662
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T13:15:00.000Z",
+          "stops": ["BKK"],
+          "duration": 1482
+        }
+      ]
+    },
+    {
+      "price": 33950,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T11:44:00.000Z",
+          "stops": [],
+          "duration": 1575
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T07:45:00.000Z",
+          "stops": ["BKK"],
+          "duration": 768
+        }
+      ]
+    },
+    {
+      "price": 84057,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T03:28:00.000Z",
+          "stops": [],
+          "duration": 995
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T10:32:00.000Z",
+          "stops": ["KUL"],
+          "duration": 1269
+        }
+      ]
+    },
+    {
+      "price": 80040,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T05:14:00.000Z",
+          "stops": ["SHA", "HKG", "KUL"],
+          "duration": 1740
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T23:33:00.000Z",
+          "stops": ["HKG", "KUL"],
+          "duration": 1388
+        }
+      ]
+    },
+    {
+      "price": 53998,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T12:18:00.000Z",
+          "stops": ["KUL", "HKG", "IST"],
+          "duration": 1388
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T00:33:00.000Z",
+          "stops": ["BKK", "SIN", "DXB"],
+          "duration": 1981
+        }
+      ]
+    },
+    {
+      "price": 15098,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T00:07:00.000Z",
+          "stops": ["DXB", "IST", "BKK"],
+          "duration": 676
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T21:57:00.000Z",
+          "stops": ["IST", "SIN", "BKK"],
+          "duration": 1586
+        }
+      ]
+    },
+    {
+      "price": 75133,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T12:10:00.000Z",
+          "stops": ["BKK"],
+          "duration": 1263
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T09:12:00.000Z",
+          "stops": ["AUH", "BKK", "IST"],
+          "duration": 1518
+        }
+      ]
+    },
+    {
+      "price": 45878,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T06:05:00.000Z",
+          "stops": ["KUL", "AUH"],
+          "duration": 1337
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T04:52:00.000Z",
+          "stops": ["AUH", "BKK", "SHA"],
+          "duration": 1691
+        }
+      ]
+    },
+    {
+      "price": 69589,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T21:13:00.000Z",
+          "stops": [],
+          "duration": 1984
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T16:40:00.000Z",
+          "stops": ["SIN"],
+          "duration": 1056
+        }
+      ]
+    },
+    {
+      "price": 54678,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T02:54:00.000Z",
+          "stops": ["HKG", "AUH", "IST"],
+          "duration": 1771
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T03:13:00.000Z",
+          "stops": ["BKK", "KUL"],
+          "duration": 1473
+        }
+      ]
+    },
+    {
+      "price": 80523,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T05:27:00.000Z",
+          "stops": [],
+          "duration": 888
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T06:35:00.000Z",
+          "stops": ["KUL"],
+          "duration": 882
+        }
+      ]
+    },
+    {
+      "price": 82112,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T02:30:00.000Z",
+          "stops": [],
+          "duration": 980
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T21:53:00.000Z",
+          "stops": [],
+          "duration": 1706
+        }
+      ]
+    },
+    {
+      "price": 39214,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T16:31:00.000Z",
+          "stops": ["DXB", "BKK", "AUH"],
+          "duration": 847
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T10:45:00.000Z",
+          "stops": ["KUL"],
+          "duration": 1794
+        }
+      ]
+    },
+    {
+      "price": 95856,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T07:51:00.000Z",
+          "stops": ["SHA", "AUH", "IST"],
+          "duration": 933
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T23:25:00.000Z",
+          "stops": ["IST"],
+          "duration": 1648
+        }
+      ]
+    },
+    {
+      "price": 87624,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T13:02:00.000Z",
+          "stops": ["DXB"],
+          "duration": 1376
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T04:14:00.000Z",
+          "stops": ["BKK", "SHA", "SIN"],
+          "duration": 1365
+        }
+      ]
+    },
+    {
+      "price": 18856,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T07:57:00.000Z",
+          "stops": ["SHA", "HKG", "DXB"],
+          "duration": 1782
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T00:51:00.000Z",
+          "stops": [],
+          "duration": 1909
+        }
+      ]
+    },
+    {
+      "price": 38008,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T14:12:00.000Z",
+          "stops": [],
+          "duration": 764
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T11:41:00.000Z",
+          "stops": ["IST"],
+          "duration": 874
+        }
+      ]
+    },
+    {
+      "price": 87928,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T00:06:00.000Z",
+          "stops": [],
+          "duration": 1186
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T21:20:00.000Z",
+          "stops": ["IST"],
+          "duration": 1677
+        }
+      ]
+    },
+    {
+      "price": 47184,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T11:40:00.000Z",
+          "stops": ["SHA"],
+          "duration": 941
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T06:24:00.000Z",
+          "stops": ["KUL"],
+          "duration": 1408
+        }
+      ]
+    },
+    {
+      "price": 64691,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T11:20:00.000Z",
+          "stops": ["HKG"],
+          "duration": 1867
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T05:27:00.000Z",
+          "stops": ["HKG", "IST", "BKK"],
+          "duration": 1367
+        }
+      ]
+    },
+    {
+      "price": 94875,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T02:09:00.000Z",
+          "stops": ["IST", "SHA", "SIN"],
+          "duration": 1195
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T09:04:00.000Z",
+          "stops": ["SHA", "HKG"],
+          "duration": 1901
+        }
+      ]
+    },
+    {
+      "price": 85762,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T23:22:00.000Z",
+          "stops": [],
+          "duration": 1926
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T22:18:00.000Z",
+          "stops": ["AUH", "KUL"],
+          "duration": 956
+        }
+      ]
+    },
+    {
+      "price": 81028,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T11:53:00.000Z",
+          "stops": ["KUL", "IST"],
+          "duration": 906
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T23:54:00.000Z",
+          "stops": ["DXB", "KUL", "SHA"],
+          "duration": 1554
+        }
+      ]
+    },
+    {
+      "price": 26530,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T06:15:00.000Z",
+          "stops": [],
+          "duration": 608
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T02:18:00.000Z",
+          "stops": [],
+          "duration": 1670
+        }
+      ]
+    },
+    {
+      "price": 91759,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T07:47:00.000Z",
+          "stops": ["HKG"],
+          "duration": 869
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T06:56:00.000Z",
+          "stops": ["SIN", "IST"],
+          "duration": 817
+        }
+      ]
+    },
+    {
+      "price": 17233,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T12:17:00.000Z",
+          "stops": ["DXB", "KUL"],
+          "duration": 1001
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T23:31:00.000Z",
+          "stops": ["SHA", "AUH"],
+          "duration": 1217
+        }
+      ]
+    },
+    {
+      "price": 57128,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T09:52:00.000Z",
+          "stops": ["BKK", "SHA", "IST"],
+          "duration": 1035
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T23:57:00.000Z",
+          "stops": ["IST", "BKK", "SHA"],
+          "duration": 791
+        }
+      ]
+    },
+    {
+      "price": 51625,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T07:59:00.000Z",
+          "stops": ["IST", "DXB"],
+          "duration": 1519
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T00:27:00.000Z",
+          "stops": ["KUL", "DXB", "SIN"],
+          "duration": 728
+        }
+      ]
+    },
+    {
+      "price": 85926,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T00:32:00.000Z",
+          "stops": ["BKK", "SHA", "KUL"],
+          "duration": 1166
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T07:35:00.000Z",
+          "stops": ["SIN", "IST", "DXB"],
+          "duration": 1121
+        }
+      ]
+    },
+    {
+      "price": 39080,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T08:38:00.000Z",
+          "stops": ["AUH", "HKG", "BKK"],
+          "duration": 1697
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T00:10:00.000Z",
+          "stops": ["AUH", "DXB", "SIN"],
+          "duration": 747
+        }
+      ]
+    },
+    {
+      "price": 37733,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T06:53:00.000Z",
+          "stops": ["AUH", "IST"],
+          "duration": 1243
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T02:19:00.000Z",
+          "stops": ["IST"],
+          "duration": 1370
+        }
+      ]
+    },
+    {
+      "price": 81734,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T12:58:00.000Z",
+          "stops": [],
+          "duration": 1313
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T23:35:00.000Z",
+          "stops": ["SIN", "HKG"],
+          "duration": 996
+        }
+      ]
+    },
+    {
+      "price": 37124,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T07:30:00.000Z",
+          "stops": [],
+          "duration": 623
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T00:36:00.000Z",
+          "stops": [],
+          "duration": 1046
+        }
+      ]
+    },
+    {
+      "price": 35235,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T04:08:00.000Z",
+          "stops": [],
+          "duration": 1918
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T12:07:00.000Z",
+          "stops": ["BKK", "SHA", "SIN"],
+          "duration": 1413
+        }
+      ]
+    },
+    {
+      "price": 47412,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T06:02:00.000Z",
+          "stops": ["DXB"],
+          "duration": 878
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T05:23:00.000Z",
+          "stops": [],
+          "duration": 663
+        }
+      ]
+    },
+    {
+      "price": 92281,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T10:07:00.000Z",
+          "stops": [],
+          "duration": 1285
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T13:00:00.000Z",
+          "stops": ["SHA"],
+          "duration": 1266
+        }
+      ]
+    },
+    {
+      "price": 75468,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T06:41:00.000Z",
+          "stops": ["AUH", "KUL"],
+          "duration": 1655
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T02:40:00.000Z",
+          "stops": ["AUH", "KUL"],
+          "duration": 1959
+        }
+      ]
+    },
+    {
+      "price": 36333,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T05:34:00.000Z",
+          "stops": ["BKK"],
+          "duration": 1232
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T14:44:00.000Z",
+          "stops": [],
+          "duration": 978
+        }
+      ]
+    },
+    {
+      "price": 63113,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T11:05:00.000Z",
+          "stops": ["DXB"],
+          "duration": 862
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T16:31:00.000Z",
+          "stops": [],
+          "duration": 802
+        }
+      ]
+    },
+    {
+      "price": 71385,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T02:44:00.000Z",
+          "stops": [],
+          "duration": 858
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T11:32:00.000Z",
+          "stops": ["IST", "HKG", "SHA"],
+          "duration": 1575
+        }
+      ]
+    },
+    {
+      "price": 19909,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T15:38:00.000Z",
+          "stops": [],
+          "duration": 1019
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T02:22:00.000Z",
+          "stops": ["DXB", "SIN", "IST"],
+          "duration": 1803
+        }
+      ]
+    },
+    {
+      "price": 45979,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T13:47:00.000Z",
+          "stops": ["IST", "HKG"],
+          "duration": 1822
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T08:56:00.000Z",
+          "stops": ["SHA"],
+          "duration": 1985
+        }
+      ]
+    },
+    {
+      "price": 48694,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T10:05:00.000Z",
+          "stops": ["SHA", "AUH", "BKK"],
+          "duration": 688
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T23:04:00.000Z",
+          "stops": ["KUL", "AUH"],
+          "duration": 1581
+        }
+      ]
+    },
+    {
+      "price": 35524,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T13:49:00.000Z",
+          "stops": ["SIN"],
+          "duration": 1205
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T07:22:00.000Z",
+          "stops": [],
+          "duration": 1753
+        }
+      ]
+    },
+    {
+      "price": 88233,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T23:47:00.000Z",
+          "stops": ["SIN", "AUH"],
+          "duration": 1456
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T08:31:00.000Z",
+          "stops": ["DXB", "KUL"],
+          "duration": 1683
+        }
+      ]
+    },
+    {
+      "price": 89181,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T02:07:00.000Z",
+          "stops": ["AUH"],
+          "duration": 1901
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T11:21:00.000Z",
+          "stops": ["HKG", "BKK"],
+          "duration": 1092
+        }
+      ]
+    },
+    {
+      "price": 15283,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T02:10:00.000Z",
+          "stops": ["HKG", "DXB"],
+          "duration": 1034
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T22:00:00.000Z",
+          "stops": ["BKK", "HKG", "IST"],
+          "duration": 1866
+        }
+      ]
+    },
+    {
+      "price": 61636,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T13:54:00.000Z",
+          "stops": ["SHA", "SIN", "IST"],
+          "duration": 1201
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T22:05:00.000Z",
+          "stops": ["DXB"],
+          "duration": 898
+        }
+      ]
+    },
+    {
+      "price": 87469,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T05:51:00.000Z",
+          "stops": ["IST"],
+          "duration": 1867
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T01:40:00.000Z",
+          "stops": [],
+          "duration": 812
+        }
+      ]
+    },
+    {
+      "price": 17012,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T16:41:00.000Z",
+          "stops": ["SHA", "DXB", "AUH"],
+          "duration": 1094
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T09:22:00.000Z",
+          "stops": [],
+          "duration": 1683
+        }
+      ]
+    },
+    {
+      "price": 30362,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T09:55:00.000Z",
+          "stops": [],
+          "duration": 1311
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T05:29:00.000Z",
+          "stops": [],
+          "duration": 1468
+        }
+      ]
+    },
+    {
+      "price": 66320,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T06:59:00.000Z",
+          "stops": ["KUL"],
+          "duration": 1245
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T14:40:00.000Z",
+          "stops": [],
+          "duration": 1740
+        }
+      ]
+    },
+    {
+      "price": 97223,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T02:13:00.000Z",
+          "stops": ["KUL", "DXB", "IST"],
+          "duration": 1708
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T01:07:00.000Z",
+          "stops": ["KUL", "HKG"],
+          "duration": 901
+        }
+      ]
+    },
+    {
+      "price": 76083,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T06:58:00.000Z",
+          "stops": [],
+          "duration": 1968
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T04:57:00.000Z",
+          "stops": ["AUH"],
+          "duration": 972
+        }
+      ]
+    },
+    {
+      "price": 56376,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T16:24:00.000Z",
+          "stops": ["KUL", "BKK", "SHA"],
+          "duration": 1634
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T10:36:00.000Z",
+          "stops": ["DXB"],
+          "duration": 1341
+        }
+      ]
+    },
+    {
+      "price": 62647,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T07:44:00.000Z",
+          "stops": ["SHA", "BKK", "AUH"],
+          "duration": 1850
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T08:50:00.000Z",
+          "stops": ["DXB", "KUL"],
+          "duration": 722
+        }
+      ]
+    },
+    {
+      "price": 96167,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T02:49:00.000Z",
+          "stops": ["HKG", "SIN"],
+          "duration": 820
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T05:01:00.000Z",
+          "stops": [],
+          "duration": 1637
+        }
+      ]
+    },
+    {
+      "price": 30977,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T14:46:00.000Z",
+          "stops": ["IST", "SHA", "KUL"],
+          "duration": 1849
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T08:11:00.000Z",
+          "stops": ["SHA", "HKG"],
+          "duration": 1538
+        }
+      ]
+    },
+    {
+      "price": 80831,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T15:16:00.000Z",
+          "stops": [],
+          "duration": 1629
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T10:12:00.000Z",
+          "stops": [],
+          "duration": 1517
+        }
+      ]
+    },
+    {
+      "price": 56774,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T06:43:00.000Z",
+          "stops": ["HKG"],
+          "duration": 1262
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T21:07:00.000Z",
+          "stops": [],
+          "duration": 648
+        }
+      ]
+    },
+    {
+      "price": 78109,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T05:33:00.000Z",
+          "stops": ["KUL"],
+          "duration": 1217
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T11:04:00.000Z",
+          "stops": ["SIN"],
+          "duration": 1124
+        }
+      ]
+    },
+    {
+      "price": 52594,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T10:10:00.000Z",
+          "stops": ["SHA", "BKK", "DXB"],
+          "duration": 1383
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T12:56:00.000Z",
+          "stops": ["SHA", "SIN", "AUH"],
+          "duration": 1177
+        }
+      ]
+    },
+    {
+      "price": 17525,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T21:34:00.000Z",
+          "stops": ["BKK"],
+          "duration": 812
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T08:31:00.000Z",
+          "stops": ["BKK"],
+          "duration": 1240
+        }
+      ]
+    },
+    {
+      "price": 67671,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T11:56:00.000Z",
+          "stops": ["SHA", "BKK"],
+          "duration": 656
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T00:53:00.000Z",
+          "stops": ["SIN", "DXB"],
+          "duration": 720
+        }
+      ]
+    },
+    {
+      "price": 81624,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T02:33:00.000Z",
+          "stops": ["IST", "SIN", "SHA"],
+          "duration": 937
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T08:05:00.000Z",
+          "stops": [],
+          "duration": 1660
+        }
+      ]
+    },
+    {
+      "price": 73906,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T23:25:00.000Z",
+          "stops": [],
+          "duration": 1630
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T14:25:00.000Z",
+          "stops": ["SHA", "SIN"],
+          "duration": 907
+        }
+      ]
+    },
+    {
+      "price": 45847,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T09:09:00.000Z",
+          "stops": ["HKG", "SIN"],
+          "duration": 1462
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T02:32:00.000Z",
+          "stops": [],
+          "duration": 1426
+        }
+      ]
+    },
+    {
+      "price": 51110,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T12:55:00.000Z",
+          "stops": ["SHA"],
+          "duration": 1344
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T12:46:00.000Z",
+          "stops": [],
+          "duration": 1046
+        }
+      ]
+    },
+    {
+      "price": 65071,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T04:56:00.000Z",
+          "stops": ["BKK", "IST"],
+          "duration": 1235
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T07:35:00.000Z",
+          "stops": ["SHA", "DXB"],
+          "duration": 1046
+        }
+      ]
+    },
+    {
+      "price": 27529,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T07:19:00.000Z",
+          "stops": ["KUL", "HKG", "SHA"],
+          "duration": 1528
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T22:06:00.000Z",
+          "stops": ["BKK", "SHA"],
+          "duration": 874
+        }
+      ]
+    },
+    {
+      "price": 87696,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T23:03:00.000Z",
+          "stops": ["DXB"],
+          "duration": 1020
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T05:22:00.000Z",
+          "stops": ["KUL", "BKK"],
+          "duration": 1319
+        }
+      ]
+    },
+    {
+      "price": 97746,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T07:00:00.000Z",
+          "stops": [],
+          "duration": 1186
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T15:02:00.000Z",
+          "stops": [],
+          "duration": 703
+        }
+      ]
+    },
+    {
+      "price": 36204,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T21:11:00.000Z",
+          "stops": ["AUH", "BKK"],
+          "duration": 1194
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T08:29:00.000Z",
+          "stops": ["DXB", "KUL", "IST"],
+          "duration": 1500
+        }
+      ]
+    },
+    {
+      "price": 71796,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T09:00:00.000Z",
+          "stops": ["AUH", "SIN"],
+          "duration": 1256
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T02:04:00.000Z",
+          "stops": ["AUH", "DXB", "SHA"],
+          "duration": 1910
+        }
+      ]
+    },
+    {
+      "price": 41106,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T09:47:00.000Z",
+          "stops": ["IST", "AUH"],
+          "duration": 1451
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T12:36:00.000Z",
+          "stops": [],
+          "duration": 1796
+        }
+      ]
+    },
+    {
+      "price": 28982,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T21:14:00.000Z",
+          "stops": ["KUL", "DXB", "IST"],
+          "duration": 1706
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T06:48:00.000Z",
+          "stops": ["AUH", "SIN"],
+          "duration": 1951
+        }
+      ]
+    },
+    {
+      "price": 17945,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T14:44:00.000Z",
+          "stops": ["BKK"],
+          "duration": 873
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T08:18:00.000Z",
+          "stops": [],
+          "duration": 1791
+        }
+      ]
+    },
+    {
+      "price": 31566,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T05:49:00.000Z",
+          "stops": [],
+          "duration": 637
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T12:27:00.000Z",
+          "stops": ["BKK", "IST"],
+          "duration": 895
+        }
+      ]
+    },
+    {
+      "price": 95068,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T07:38:00.000Z",
+          "stops": ["DXB", "HKG", "BKK"],
+          "duration": 1681
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T15:56:00.000Z",
+          "stops": ["SHA", "HKG"],
+          "duration": 1110
+        }
+      ]
+    },
+    {
+      "price": 37961,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T02:58:00.000Z",
+          "stops": [],
+          "duration": 1534
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T13:30:00.000Z",
+          "stops": ["SHA", "IST"],
+          "duration": 1552
+        }
+      ]
+    },
+    {
+      "price": 48100,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T14:13:00.000Z",
+          "stops": ["SIN"],
+          "duration": 1394
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T07:53:00.000Z",
+          "stops": ["SHA", "AUH"],
+          "duration": 1255
+        }
+      ]
+    },
+    {
+      "price": 72456,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T21:44:00.000Z",
+          "stops": ["SHA", "DXB"],
+          "duration": 819
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T23:20:00.000Z",
+          "stops": ["AUH", "IST", "HKG"],
+          "duration": 1409
+        }
+      ]
+    },
+    {
+      "price": 26427,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T04:24:00.000Z",
+          "stops": ["HKG", "KUL"],
+          "duration": 1372
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T00:55:00.000Z",
+          "stops": ["SHA", "HKG"],
+          "duration": 1078
+        }
+      ]
+    },
+    {
+      "price": 61503,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T21:27:00.000Z",
+          "stops": ["HKG"],
+          "duration": 1408
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T15:05:00.000Z",
+          "stops": ["IST", "HKG", "DXB"],
+          "duration": 1825
+        }
+      ]
+    },
+    {
+      "price": 84237,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T14:04:00.000Z",
+          "stops": ["AUH", "SHA", "IST"],
+          "duration": 1680
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T15:20:00.000Z",
+          "stops": [],
+          "duration": 1738
+        }
+      ]
+    },
+    {
+      "price": 88206,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T10:18:00.000Z",
+          "stops": ["SHA", "DXB"],
+          "duration": 855
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T14:49:00.000Z",
+          "stops": ["DXB", "AUH"],
+          "duration": 1809
+        }
+      ]
+    },
+    {
+      "price": 66636,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T23:43:00.000Z",
+          "stops": ["DXB", "HKG"],
+          "duration": 817
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T03:01:00.000Z",
+          "stops": ["DXB"],
+          "duration": 1737
+        }
+      ]
+    },
+    {
+      "price": 34765,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T10:16:00.000Z",
+          "stops": ["BKK", "IST"],
+          "duration": 1331
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T08:01:00.000Z",
+          "stops": [],
+          "duration": 886
+        }
+      ]
+    },
+    {
+      "price": 44325,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T06:29:00.000Z",
+          "stops": ["KUL", "BKK"],
+          "duration": 1945
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T23:44:00.000Z",
+          "stops": [],
+          "duration": 1660
+        }
+      ]
+    },
+    {
+      "price": 76146,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T14:47:00.000Z",
+          "stops": ["AUH", "SHA"],
+          "duration": 1803
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T09:17:00.000Z",
+          "stops": ["HKG"],
+          "duration": 1924
+        }
+      ]
+    },
+    {
+      "price": 68026,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T12:46:00.000Z",
+          "stops": ["AUH", "SIN"],
+          "duration": 1867
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T00:00:00.000Z",
+          "stops": ["IST", "DXB", "SIN"],
+          "duration": 1455
+        }
+      ]
+    },
+    {
+      "price": 38100,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T22:39:00.000Z",
+          "stops": [],
+          "duration": 1057
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T00:04:00.000Z",
+          "stops": ["BKK", "KUL", "HKG"],
+          "duration": 955
+        }
+      ]
+    },
+    {
+      "price": 93693,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T04:05:00.000Z",
+          "stops": ["SIN"],
+          "duration": 1847
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T10:30:00.000Z",
+          "stops": ["SHA"],
+          "duration": 790
+        }
+      ]
+    },
+    {
+      "price": 66894,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T07:05:00.000Z",
+          "stops": ["AUH", "BKK"],
+          "duration": 1894
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T16:36:00.000Z",
+          "stops": ["KUL", "SIN"],
+          "duration": 1394
+        }
+      ]
+    },
+    {
+      "price": 60143,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T14:45:00.000Z",
+          "stops": ["SIN"],
+          "duration": 1033
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T17:44:00.000Z",
+          "stops": [],
+          "duration": 1715
+        }
+      ]
+    },
+    {
+      "price": 47942,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T01:23:00.000Z",
+          "stops": [],
+          "duration": 775
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T10:38:00.000Z",
+          "stops": ["SIN", "BKK", "AUH"],
+          "duration": 1567
+        }
+      ]
+    },
+    {
+      "price": 56189,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T08:05:00.000Z",
+          "stops": ["SIN"],
+          "duration": 718
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T06:47:00.000Z",
+          "stops": ["KUL", "IST"],
+          "duration": 1603
+        }
+      ]
+    },
+    {
+      "price": 33556,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T08:18:00.000Z",
+          "stops": ["HKG", "BKK", "IST"],
+          "duration": 1007
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T17:32:00.000Z",
+          "stops": [],
+          "duration": 1004
+        }
+      ]
+    },
+    {
+      "price": 74305,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T02:57:00.000Z",
+          "stops": ["KUL", "BKK"],
+          "duration": 1989
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T06:35:00.000Z",
+          "stops": [],
+          "duration": 1675
+        }
+      ]
+    },
+    {
+      "price": 26976,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T03:29:00.000Z",
+          "stops": ["DXB"],
+          "duration": 1559
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T14:06:00.000Z",
+          "stops": ["DXB", "SIN", "SHA"],
+          "duration": 1019
+        }
+      ]
+    },
+    {
+      "price": 43974,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T00:42:00.000Z",
+          "stops": ["SIN", "BKK"],
+          "duration": 841
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T22:16:00.000Z",
+          "stops": [],
+          "duration": 1371
+        }
+      ]
+    },
+    {
+      "price": 94943,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T03:35:00.000Z",
+          "stops": ["KUL", "HKG", "SIN"],
+          "duration": 772
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T09:15:00.000Z",
+          "stops": ["HKG"],
+          "duration": 1405
+        }
+      ]
+    },
+    {
+      "price": 78041,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T10:52:00.000Z",
+          "stops": ["BKK", "IST", "HKG"],
+          "duration": 992
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T01:48:00.000Z",
+          "stops": ["SIN", "IST", "KUL"],
+          "duration": 652
+        }
+      ]
+    },
+    {
+      "price": 89057,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T01:32:00.000Z",
+          "stops": [],
+          "duration": 990
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T13:30:00.000Z",
+          "stops": ["HKG"],
+          "duration": 924
+        }
+      ]
+    },
+    {
+      "price": 55483,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T03:02:00.000Z",
+          "stops": ["KUL"],
+          "duration": 765
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T05:49:00.000Z",
+          "stops": ["AUH", "SHA"],
+          "duration": 1555
+        }
+      ]
+    },
+    {
+      "price": 54440,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T06:37:00.000Z",
+          "stops": ["BKK", "IST"],
+          "duration": 1127
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T00:28:00.000Z",
+          "stops": ["SHA", "BKK"],
+          "duration": 1833
+        }
+      ]
+    },
+    {
+      "price": 20895,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T15:13:00.000Z",
+          "stops": ["IST"],
+          "duration": 1921
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T09:29:00.000Z",
+          "stops": ["AUH", "KUL", "BKK"],
+          "duration": 1094
+        }
+      ]
+    },
+    {
+      "price": 84815,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T14:51:00.000Z",
+          "stops": ["SIN", "HKG"],
+          "duration": 1385
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T00:58:00.000Z",
+          "stops": ["SHA", "AUH"],
+          "duration": 1602
+        }
+      ]
+    },
+    {
+      "price": 65959,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T06:54:00.000Z",
+          "stops": ["HKG", "KUL"],
+          "duration": 1719
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T11:56:00.000Z",
+          "stops": [],
+          "duration": 1846
+        }
+      ]
+    },
+    {
+      "price": 97732,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T08:42:00.000Z",
+          "stops": ["HKG", "IST", "SIN"],
+          "duration": 1363
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T23:33:00.000Z",
+          "stops": ["BKK", "IST"],
+          "duration": 1247
+        }
+      ]
+    },
+    {
+      "price": 92791,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T22:08:00.000Z",
+          "stops": ["HKG", "DXB"],
+          "duration": 1465
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T07:03:00.000Z",
+          "stops": [],
+          "duration": 715
+        }
+      ]
+    },
+    {
+      "price": 38126,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T07:40:00.000Z",
+          "stops": [],
+          "duration": 1871
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T16:49:00.000Z",
+          "stops": ["SIN"],
+          "duration": 1841
+        }
+      ]
+    },
+    {
+      "price": 79431,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T12:46:00.000Z",
+          "stops": ["DXB", "HKG", "AUH"],
+          "duration": 1756
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T03:17:00.000Z",
+          "stops": ["AUH", "IST"],
+          "duration": 1696
+        }
+      ]
+    },
+    {
+      "price": 25949,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T07:22:00.000Z",
+          "stops": ["BKK"],
+          "duration": 1738
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T01:56:00.000Z",
+          "stops": [],
+          "duration": 1947
+        }
+      ]
+    },
+    {
+      "price": 15039,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T05:26:00.000Z",
+          "stops": ["SHA"],
+          "duration": 1088
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T21:43:00.000Z",
+          "stops": ["IST"],
+          "duration": 1723
+        }
+      ]
+    },
+    {
+      "price": 84977,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T03:10:00.000Z",
+          "stops": [],
+          "duration": 947
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T07:24:00.000Z",
+          "stops": ["KUL", "SHA", "BKK"],
+          "duration": 860
+        }
+      ]
+    },
+    {
+      "price": 42586,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T23:49:00.000Z",
+          "stops": ["HKG"],
+          "duration": 705
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T11:07:00.000Z",
+          "stops": ["DXB", "BKK"],
+          "duration": 957
+        }
+      ]
+    },
+    {
+      "price": 65315,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T00:01:00.000Z",
+          "stops": ["DXB", "IST", "AUH"],
+          "duration": 1046
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T10:01:00.000Z",
+          "stops": ["HKG"],
+          "duration": 793
+        }
+      ]
+    },
+    {
+      "price": 86706,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T07:52:00.000Z",
+          "stops": [],
+          "duration": 1558
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T15:43:00.000Z",
+          "stops": ["HKG", "BKK", "DXB"],
+          "duration": 1479
+        }
+      ]
+    },
+    {
+      "price": 52816,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T02:35:00.000Z",
+          "stops": ["SIN", "BKK"],
+          "duration": 1133
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T13:47:00.000Z",
+          "stops": ["BKK"],
+          "duration": 1581
+        }
+      ]
+    },
+    {
+      "price": 46996,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T04:48:00.000Z",
+          "stops": ["DXB", "SIN", "SHA"],
+          "duration": 1968
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T15:02:00.000Z",
+          "stops": ["KUL", "IST"],
+          "duration": 1364
+        }
+      ]
+    },
+    {
+      "price": 45686,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T03:55:00.000Z",
+          "stops": ["HKG", "DXB"],
+          "duration": 1989
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T00:59:00.000Z",
+          "stops": ["IST", "DXB"],
+          "duration": 1664
+        }
+      ]
+    },
+    {
+      "price": 60725,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T09:05:00.000Z",
+          "stops": [],
+          "duration": 741
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T15:18:00.000Z",
+          "stops": ["DXB"],
+          "duration": 641
+        }
+      ]
+    },
+    {
+      "price": 72982,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T05:05:00.000Z",
+          "stops": [],
+          "duration": 1851
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T17:11:00.000Z",
+          "stops": ["DXB"],
+          "duration": 1262
+        }
+      ]
+    },
+    {
+      "price": 42482,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T14:23:00.000Z",
+          "stops": ["KUL", "BKK"],
+          "duration": 1948
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T22:47:00.000Z",
+          "stops": ["SIN", "SHA"],
+          "duration": 1446
+        }
+      ]
+    },
+    {
+      "price": 21884,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T11:27:00.000Z",
+          "stops": ["HKG", "SIN"],
+          "duration": 1917
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T12:06:00.000Z",
+          "stops": ["DXB", "BKK", "SHA"],
+          "duration": 1600
+        }
+      ]
+    },
+    {
+      "price": 71110,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T03:11:00.000Z",
+          "stops": ["SIN"],
+          "duration": 1535
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T13:46:00.000Z",
+          "stops": [],
+          "duration": 660
+        }
+      ]
+    },
+    {
+      "price": 60895,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T08:39:00.000Z",
+          "stops": ["BKK"],
+          "duration": 1495
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T04:26:00.000Z",
+          "stops": [],
+          "duration": 1703
+        }
+      ]
+    },
+    {
+      "price": 24778,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T17:54:00.000Z",
+          "stops": ["HKG", "AUH", "BKK"],
+          "duration": 1070
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T12:06:00.000Z",
+          "stops": ["SIN", "HKG", "SHA"],
+          "duration": 877
+        }
+      ]
+    },
+    {
+      "price": 27906,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T00:02:00.000Z",
+          "stops": [],
+          "duration": 1691
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T11:19:00.000Z",
+          "stops": ["BKK", "DXB"],
+          "duration": 1902
+        }
+      ]
+    },
+    {
+      "price": 94764,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T08:42:00.000Z",
+          "stops": ["SIN", "SHA"],
+          "duration": 1598
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T14:40:00.000Z",
+          "stops": ["SIN", "DXB"],
+          "duration": 1014
+        }
+      ]
+    },
+    {
+      "price": 22161,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T21:08:00.000Z",
+          "stops": ["AUH", "BKK"],
+          "duration": 1645
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T01:23:00.000Z",
+          "stops": [],
+          "duration": 1944
+        }
+      ]
+    },
+    {
+      "price": 83229,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T22:18:00.000Z",
+          "stops": ["DXB", "IST"],
+          "duration": 663
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T08:42:00.000Z",
+          "stops": ["IST", "KUL", "BKK"],
+          "duration": 701
+        }
+      ]
+    },
+    {
+      "price": 30470,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T02:37:00.000Z",
+          "stops": ["HKG", "SHA"],
+          "duration": 1856
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T08:44:00.000Z",
+          "stops": [],
+          "duration": 1807
+        }
+      ]
+    },
+    {
+      "price": 86548,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T23:56:00.000Z",
+          "stops": ["AUH", "SIN"],
+          "duration": 1837
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T17:13:00.000Z",
+          "stops": ["SHA", "BKK", "IST"],
+          "duration": 1725
+        }
+      ]
+    },
+    {
+      "price": 49035,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T08:36:00.000Z",
+          "stops": ["HKG", "IST"],
+          "duration": 1416
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T01:05:00.000Z",
+          "stops": ["BKK"],
+          "duration": 896
+        }
+      ]
+    },
+    {
+      "price": 28050,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T22:14:00.000Z",
+          "stops": [],
+          "duration": 1232
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T17:06:00.000Z",
+          "stops": ["HKG", "DXB", "AUH"],
+          "duration": 1206
+        }
+      ]
+    },
+    {
+      "price": 38493,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T12:09:00.000Z",
+          "stops": ["BKK", "SHA"],
+          "duration": 1732
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T00:33:00.000Z",
+          "stops": [],
+          "duration": 847
+        }
+      ]
+    },
+    {
+      "price": 70009,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T05:19:00.000Z",
+          "stops": ["BKK", "SIN"],
+          "duration": 1625
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T22:56:00.000Z",
+          "stops": [],
+          "duration": 1391
+        }
+      ]
+    },
+    {
+      "price": 43874,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T02:06:00.000Z",
+          "stops": ["KUL", "DXB", "BKK"],
+          "duration": 984
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T10:56:00.000Z",
+          "stops": [],
+          "duration": 1594
+        }
+      ]
+    },
+    {
+      "price": 72442,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T14:47:00.000Z",
+          "stops": [],
+          "duration": 1593
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T09:39:00.000Z",
+          "stops": [],
+          "duration": 1090
+        }
+      ]
+    },
+    {
+      "price": 55014,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T02:19:00.000Z",
+          "stops": ["SIN", "BKK"],
+          "duration": 1837
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T09:19:00.000Z",
+          "stops": ["SIN"],
+          "duration": 1595
+        }
+      ]
+    },
+    {
+      "price": 81464,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T16:03:00.000Z",
+          "stops": ["KUL", "DXB", "SHA"],
+          "duration": 1958
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T11:57:00.000Z",
+          "stops": [],
+          "duration": 1213
+        }
+      ]
+    },
+    {
+      "price": 32094,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T01:40:00.000Z",
+          "stops": [],
+          "duration": 992
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T05:01:00.000Z",
+          "stops": ["IST", "SIN"],
+          "duration": 1311
+        }
+      ]
+    },
+    {
+      "price": 35830,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T21:28:00.000Z",
+          "stops": ["AUH", "SHA"],
+          "duration": 1466
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T05:37:00.000Z",
+          "stops": ["KUL", "BKK", "HKG"],
+          "duration": 1651
+        }
+      ]
+    },
+    {
+      "price": 27393,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T22:02:00.000Z",
+          "stops": ["SIN"],
+          "duration": 1988
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T07:20:00.000Z",
+          "stops": [],
+          "duration": 1279
+        }
+      ]
+    },
+    {
+      "price": 57851,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T14:32:00.000Z",
+          "stops": ["IST", "SIN", "BKK"],
+          "duration": 1538
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T01:30:00.000Z",
+          "stops": [],
+          "duration": 709
+        }
+      ]
+    },
+    {
+      "price": 47412,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T02:22:00.000Z",
+          "stops": ["AUH"],
+          "duration": 939
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T21:22:00.000Z",
+          "stops": [],
+          "duration": 729
+        }
+      ]
+    },
+    {
+      "price": 36457,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T10:21:00.000Z",
+          "stops": ["HKG", "AUH"],
+          "duration": 1064
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T15:00:00.000Z",
+          "stops": ["HKG"],
+          "duration": 687
+        }
+      ]
+    },
+    {
+      "price": 94032,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T06:08:00.000Z",
+          "stops": ["KUL"],
+          "duration": 673
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T10:57:00.000Z",
+          "stops": ["SHA", "DXB"],
+          "duration": 646
+        }
+      ]
+    },
+    {
+      "price": 92750,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T21:50:00.000Z",
+          "stops": ["BKK", "SIN", "DXB"],
+          "duration": 862
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T14:30:00.000Z",
+          "stops": ["KUL", "BKK", "AUH"],
+          "duration": 1298
+        }
+      ]
+    },
+    {
+      "price": 76775,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T23:29:00.000Z",
+          "stops": ["IST"],
+          "duration": 677
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T13:23:00.000Z",
+          "stops": [],
+          "duration": 1420
+        }
+      ]
+    },
+    {
+      "price": 71671,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T12:02:00.000Z",
+          "stops": [],
+          "duration": 1482
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T04:52:00.000Z",
+          "stops": ["DXB", "IST"],
+          "duration": 1739
+        }
+      ]
+    },
+    {
+      "price": 39570,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T10:42:00.000Z",
+          "stops": ["SIN", "AUH"],
+          "duration": 1720
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T13:11:00.000Z",
+          "stops": ["HKG"],
+          "duration": 1874
+        }
+      ]
+    },
+    {
+      "price": 58469,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T04:03:00.000Z",
+          "stops": ["IST", "SHA"],
+          "duration": 1023
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T14:48:00.000Z",
+          "stops": ["HKG", "BKK", "AUH"],
+          "duration": 1371
+        }
+      ]
+    },
+    {
+      "price": 33286,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T02:58:00.000Z",
+          "stops": ["BKK", "SIN"],
+          "duration": 1620
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T14:37:00.000Z",
+          "stops": ["SHA"],
+          "duration": 1174
+        }
+      ]
+    },
+    {
+      "price": 80330,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T02:56:00.000Z",
+          "stops": ["BKK"],
+          "duration": 1646
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T22:45:00.000Z",
+          "stops": ["HKG", "IST", "SHA"],
+          "duration": 1941
+        }
+      ]
+    },
+    {
+      "price": 57292,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T16:31:00.000Z",
+          "stops": ["DXB", "IST", "SHA"],
+          "duration": 1681
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T12:43:00.000Z",
+          "stops": ["KUL", "HKG", "AUH"],
+          "duration": 1662
+        }
+      ]
+    },
+    {
+      "price": 35802,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T22:38:00.000Z",
+          "stops": [],
+          "duration": 1741
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T16:16:00.000Z",
+          "stops": ["KUL"],
+          "duration": 885
+        }
+      ]
+    },
+    {
+      "price": 44666,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T13:49:00.000Z",
+          "stops": ["SHA"],
+          "duration": 705
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T17:34:00.000Z",
+          "stops": ["HKG"],
+          "duration": 1976
+        }
+      ]
+    },
+    {
+      "price": 62867,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T22:48:00.000Z",
+          "stops": [],
+          "duration": 784
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T13:25:00.000Z",
+          "stops": ["DXB", "AUH"],
+          "duration": 1392
+        }
+      ]
+    },
+    {
+      "price": 57325,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T01:26:00.000Z",
+          "stops": ["AUH", "HKG"],
+          "duration": 1406
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T08:17:00.000Z",
+          "stops": ["AUH", "DXB"],
+          "duration": 1768
+        }
+      ]
+    },
+    {
+      "price": 79773,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T16:07:00.000Z",
+          "stops": [],
+          "duration": 1126
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T23:49:00.000Z",
+          "stops": ["DXB", "HKG"],
+          "duration": 1455
+        }
+      ]
+    },
+    {
+      "price": 31682,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T04:13:00.000Z",
+          "stops": ["SIN", "BKK"],
+          "duration": 1975
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T01:48:00.000Z",
+          "stops": ["KUL"],
+          "duration": 1710
+        }
+      ]
+    },
+    {
+      "price": 89317,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T22:38:00.000Z",
+          "stops": [],
+          "duration": 1367
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T08:48:00.000Z",
+          "stops": ["IST", "HKG", "AUH"],
+          "duration": 1512
+        }
+      ]
+    },
+    {
+      "price": 64115,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T06:23:00.000Z",
+          "stops": ["DXB"],
+          "duration": 1724
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T05:09:00.000Z",
+          "stops": ["IST", "HKG"],
+          "duration": 1304
+        }
+      ]
+    },
+    {
+      "price": 16674,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T14:41:00.000Z",
+          "stops": ["BKK", "DXB"],
+          "duration": 840
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T06:59:00.000Z",
+          "stops": ["AUH"],
+          "duration": 685
+        }
+      ]
+    },
+    {
+      "price": 55416,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T12:18:00.000Z",
+          "stops": ["HKG", "SIN"],
+          "duration": 1583
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T10:37:00.000Z",
+          "stops": ["HKG", "BKK"],
+          "duration": 1263
+        }
+      ]
+    },
+    {
+      "price": 97887,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T03:52:00.000Z",
+          "stops": ["SHA", "SIN", "IST"],
+          "duration": 1714
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T17:43:00.000Z",
+          "stops": ["KUL", "SHA", "HKG"],
+          "duration": 645
+        }
+      ]
+    },
+    {
+      "price": 97152,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T15:14:00.000Z",
+          "stops": ["SHA"],
+          "duration": 934
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T10:28:00.000Z",
+          "stops": ["BKK", "DXB", "HKG"],
+          "duration": 1161
+        }
+      ]
+    },
+    {
+      "price": 84404,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T02:59:00.000Z",
+          "stops": ["AUH", "HKG", "SIN"],
+          "duration": 1245
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T03:30:00.000Z",
+          "stops": ["KUL", "AUH", "BKK"],
+          "duration": 1164
+        }
+      ]
+    },
+    {
+      "price": 29533,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T03:57:00.000Z",
+          "stops": ["SHA", "SIN"],
+          "duration": 1854
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T15:57:00.000Z",
+          "stops": [],
+          "duration": 1734
+        }
+      ]
+    },
+    {
+      "price": 80571,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T08:27:00.000Z",
+          "stops": ["BKK"],
+          "duration": 1751
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T08:03:00.000Z",
+          "stops": ["HKG"],
+          "duration": 1865
+        }
+      ]
+    },
+    {
+      "price": 87479,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T02:29:00.000Z",
+          "stops": [],
+          "duration": 1445
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T03:28:00.000Z",
+          "stops": ["DXB"],
+          "duration": 695
+        }
+      ]
+    },
+    {
+      "price": 88007,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T21:28:00.000Z",
+          "stops": ["BKK"],
+          "duration": 684
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T10:36:00.000Z",
+          "stops": ["IST"],
+          "duration": 695
+        }
+      ]
+    },
+    {
+      "price": 95063,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T15:16:00.000Z",
+          "stops": ["BKK", "DXB", "SHA"],
+          "duration": 944
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T04:19:00.000Z",
+          "stops": ["KUL"],
+          "duration": 782
+        }
+      ]
+    },
+    {
+      "price": 43129,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T03:42:00.000Z",
+          "stops": ["SHA", "DXB"],
+          "duration": 629
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T00:06:00.000Z",
+          "stops": ["SHA", "HKG"],
+          "duration": 1354
+        }
+      ]
+    },
+    {
+      "price": 80545,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T10:54:00.000Z",
+          "stops": ["HKG", "BKK", "KUL"],
+          "duration": 715
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T08:16:00.000Z",
+          "stops": ["SHA", "BKK"],
+          "duration": 1800
+        }
+      ]
+    },
+    {
+      "price": 55589,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T08:47:00.000Z",
+          "stops": [],
+          "duration": 1282
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T15:14:00.000Z",
+          "stops": ["KUL", "BKK", "SHA"],
+          "duration": 1024
+        }
+      ]
+    },
+    {
+      "price": 20207,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T16:01:00.000Z",
+          "stops": ["AUH"],
+          "duration": 1861
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T03:48:00.000Z",
+          "stops": [],
+          "duration": 1548
+        }
+      ]
+    },
+    {
+      "price": 54528,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T17:29:00.000Z",
+          "stops": ["AUH", "SIN", "BKK"],
+          "duration": 1056
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T03:13:00.000Z",
+          "stops": ["KUL", "SHA"],
+          "duration": 1244
+        }
+      ]
+    },
+    {
+      "price": 74010,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T16:02:00.000Z",
+          "stops": ["SHA"],
+          "duration": 1902
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T01:08:00.000Z",
+          "stops": ["SIN", "KUL"],
+          "duration": 665
+        }
+      ]
+    },
+    {
+      "price": 97903,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T08:16:00.000Z",
+          "stops": ["SIN", "SHA", "KUL"],
+          "duration": 1707
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T21:42:00.000Z",
+          "stops": ["SIN", "KUL"],
+          "duration": 1781
+        }
+      ]
+    },
+    {
+      "price": 31262,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T10:57:00.000Z",
+          "stops": ["KUL"],
+          "duration": 1374
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T03:09:00.000Z",
+          "stops": ["AUH"],
+          "duration": 1501
+        }
+      ]
+    },
+    {
+      "price": 70063,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T21:56:00.000Z",
+          "stops": ["AUH", "SIN", "SHA"],
+          "duration": 1968
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T10:05:00.000Z",
+          "stops": ["SHA", "DXB", "HKG"],
+          "duration": 772
+        }
+      ]
+    },
+    {
+      "price": 30109,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T11:34:00.000Z",
+          "stops": ["SIN", "SHA"],
+          "duration": 950
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T22:02:00.000Z",
+          "stops": ["AUH", "SIN", "BKK"],
+          "duration": 1531
+        }
+      ]
+    },
+    {
+      "price": 43465,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T03:46:00.000Z",
+          "stops": ["IST"],
+          "duration": 1345
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T22:44:00.000Z",
+          "stops": [],
+          "duration": 1694
+        }
+      ]
+    },
+    {
+      "price": 31013,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T12:22:00.000Z",
+          "stops": ["BKK"],
+          "duration": 988
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T09:42:00.000Z",
+          "stops": [],
+          "duration": 1932
+        }
+      ]
+    },
+    {
+      "price": 60050,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T09:25:00.000Z",
+          "stops": ["KUL", "HKG"],
+          "duration": 1523
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T06:52:00.000Z",
+          "stops": ["BKK", "SIN", "DXB"],
+          "duration": 1316
+        }
+      ]
+    },
+    {
+      "price": 83289,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T13:26:00.000Z",
+          "stops": ["AUH", "SIN", "HKG"],
+          "duration": 769
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T08:34:00.000Z",
+          "stops": ["IST", "BKK"],
+          "duration": 1316
+        }
+      ]
+    },
+    {
+      "price": 80211,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T06:37:00.000Z",
+          "stops": ["AUH"],
+          "duration": 1068
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T22:32:00.000Z",
+          "stops": ["DXB"],
+          "duration": 1429
+        }
+      ]
+    },
+    {
+      "price": 84268,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T03:46:00.000Z",
+          "stops": ["HKG", "KUL", "SIN"],
+          "duration": 1566
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T09:09:00.000Z",
+          "stops": ["HKG"],
+          "duration": 1306
+        }
+      ]
+    },
+    {
+      "price": 21739,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T12:46:00.000Z",
+          "stops": ["HKG", "SIN"],
+          "duration": 607
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T15:12:00.000Z",
+          "stops": [],
+          "duration": 1169
+        }
+      ]
+    },
+    {
+      "price": 48981,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T10:03:00.000Z",
+          "stops": ["AUH", "BKK", "SHA"],
+          "duration": 1150
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T21:50:00.000Z",
+          "stops": ["HKG", "BKK"],
+          "duration": 1479
+        }
+      ]
+    },
+    {
+      "price": 27861,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T09:55:00.000Z",
+          "stops": ["DXB", "BKK", "KUL"],
+          "duration": 1395
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T22:27:00.000Z",
+          "stops": ["BKK"],
+          "duration": 1770
+        }
+      ]
+    },
+    {
+      "price": 58282,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T23:16:00.000Z",
+          "stops": [],
+          "duration": 1616
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T13:29:00.000Z",
+          "stops": [],
+          "duration": 932
+        }
+      ]
+    },
+    {
+      "price": 90409,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T13:04:00.000Z",
+          "stops": ["BKK", "DXB", "AUH"],
+          "duration": 657
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T00:57:00.000Z",
+          "stops": [],
+          "duration": 875
+        }
+      ]
+    },
+    {
+      "price": 79154,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T12:18:00.000Z",
+          "stops": ["IST", "SHA", "DXB"],
+          "duration": 1725
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T14:51:00.000Z",
+          "stops": ["KUL"],
+          "duration": 1089
+        }
+      ]
+    },
+    {
+      "price": 66780,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T07:20:00.000Z",
+          "stops": ["SIN"],
+          "duration": 1567
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T03:40:00.000Z",
+          "stops": [],
+          "duration": 981
+        }
+      ]
+    },
+    {
+      "price": 21290,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T14:28:00.000Z",
+          "stops": ["HKG", "DXB"],
+          "duration": 1419
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T06:35:00.000Z",
+          "stops": ["IST", "SIN", "KUL"],
+          "duration": 1209
+        }
+      ]
+    },
+    {
+      "price": 70474,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T14:56:00.000Z",
+          "stops": ["AUH", "HKG"],
+          "duration": 1163
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T08:02:00.000Z",
+          "stops": [],
+          "duration": 1025
+        }
+      ]
+    },
+    {
+      "price": 88730,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T13:38:00.000Z",
+          "stops": ["DXB", "AUH", "KUL"],
+          "duration": 1482
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T04:26:00.000Z",
+          "stops": ["SIN", "HKG"],
+          "duration": 1379
+        }
+      ]
+    },
+    {
+      "price": 89355,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T17:52:00.000Z",
+          "stops": ["SIN"],
+          "duration": 734
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T05:40:00.000Z",
+          "stops": ["BKK"],
+          "duration": 990
+        }
+      ]
+    },
+    {
+      "price": 76357,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T13:16:00.000Z",
+          "stops": [],
+          "duration": 776
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T08:17:00.000Z",
+          "stops": ["AUH", "DXB", "SIN"],
+          "duration": 1674
+        }
+      ]
+    },
+    {
+      "price": 79979,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T04:22:00.000Z",
+          "stops": [],
+          "duration": 1084
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T16:05:00.000Z",
+          "stops": ["BKK"],
+          "duration": 1042
+        }
+      ]
+    },
+    {
+      "price": 75627,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T14:36:00.000Z",
+          "stops": ["SHA"],
+          "duration": 1092
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T22:22:00.000Z",
+          "stops": ["SHA"],
+          "duration": 1927
+        }
+      ]
+    },
+    {
+      "price": 57763,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T10:21:00.000Z",
+          "stops": ["HKG", "SIN"],
+          "duration": 945
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T07:08:00.000Z",
+          "stops": ["HKG", "DXB"],
+          "duration": 641
+        }
+      ]
+    },
+    {
+      "price": 99147,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T08:07:00.000Z",
+          "stops": ["HKG"],
+          "duration": 1088
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T05:21:00.000Z",
+          "stops": ["KUL"],
+          "duration": 733
+        }
+      ]
+    },
+    {
+      "price": 70518,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T02:35:00.000Z",
+          "stops": ["IST", "DXB"],
+          "duration": 1371
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T13:22:00.000Z",
+          "stops": ["BKK"],
+          "duration": 1997
+        }
+      ]
+    },
+    {
+      "price": 18962,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T00:54:00.000Z",
+          "stops": ["DXB", "HKG"],
+          "duration": 887
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T00:28:00.000Z",
+          "stops": ["SHA", "BKK", "HKG"],
+          "duration": 907
+        }
+      ]
+    },
+    {
+      "price": 16482,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T23:51:00.000Z",
+          "stops": [],
+          "duration": 1240
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T08:52:00.000Z",
+          "stops": ["KUL", "AUH", "SHA"],
+          "duration": 1004
+        }
+      ]
+    },
+    {
+      "price": 50741,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T21:44:00.000Z",
+          "stops": ["SHA", "IST", "HKG"],
+          "duration": 1160
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T03:56:00.000Z",
+          "stops": [],
+          "duration": 1084
+        }
+      ]
+    },
+    {
+      "price": 24434,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T06:02:00.000Z",
+          "stops": [],
+          "duration": 949
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T10:43:00.000Z",
+          "stops": ["KUL"],
+          "duration": 1609
+        }
+      ]
+    },
+    {
+      "price": 84908,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T16:13:00.000Z",
+          "stops": [],
+          "duration": 1203
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T02:48:00.000Z",
+          "stops": ["SHA", "BKK"],
+          "duration": 1293
+        }
+      ]
+    },
+    {
+      "price": 23964,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T14:25:00.000Z",
+          "stops": ["HKG", "SIN", "BKK"],
+          "duration": 738
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T08:52:00.000Z",
+          "stops": [],
+          "duration": 1265
+        }
+      ]
+    },
+    {
+      "price": 22006,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T04:22:00.000Z",
+          "stops": ["BKK", "IST"],
+          "duration": 1211
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T01:33:00.000Z",
+          "stops": [],
+          "duration": 1517
+        }
+      ]
+    },
+    {
+      "price": 29733,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T14:28:00.000Z",
+          "stops": [],
+          "duration": 1216
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T01:18:00.000Z",
+          "stops": [],
+          "duration": 1130
+        }
+      ]
+    },
+    {
+      "price": 40869,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T12:58:00.000Z",
+          "stops": ["DXB", "HKG"],
+          "duration": 889
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T06:51:00.000Z",
+          "stops": ["HKG", "BKK"],
+          "duration": 1798
+        }
+      ]
+    },
+    {
+      "price": 76132,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T04:56:00.000Z",
+          "stops": [],
+          "duration": 1255
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T23:22:00.000Z",
+          "stops": ["KUL"],
+          "duration": 720
+        }
+      ]
+    },
+    {
+      "price": 15697,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T10:11:00.000Z",
+          "stops": [],
+          "duration": 1302
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T21:07:00.000Z",
+          "stops": ["AUH", "DXB", "SIN"],
+          "duration": 1614
+        }
+      ]
+    },
+    {
+      "price": 61731,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T12:54:00.000Z",
+          "stops": [],
+          "duration": 1908
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T09:56:00.000Z",
+          "stops": ["HKG", "SIN", "BKK"],
+          "duration": 1877
+        }
+      ]
+    },
+    {
+      "price": 86135,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T01:26:00.000Z",
+          "stops": ["HKG"],
+          "duration": 1218
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T04:15:00.000Z",
+          "stops": ["KUL", "SHA", "BKK"],
+          "duration": 798
+        }
+      ]
+    },
+    {
+      "price": 66112,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T17:46:00.000Z",
+          "stops": ["SIN", "DXB", "KUL"],
+          "duration": 1047
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T05:05:00.000Z",
+          "stops": ["AUH", "HKG", "BKK"],
+          "duration": 1456
+        }
+      ]
+    },
+    {
+      "price": 28744,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T22:59:00.000Z",
+          "stops": [],
+          "duration": 1200
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T13:17:00.000Z",
+          "stops": ["BKK", "SHA", "HKG"],
+          "duration": 1752
+        }
+      ]
+    },
+    {
+      "price": 66324,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T15:01:00.000Z",
+          "stops": [],
+          "duration": 1020
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T09:18:00.000Z",
+          "stops": ["SIN", "KUL"],
+          "duration": 972
+        }
+      ]
+    },
+    {
+      "price": 42522,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T00:24:00.000Z",
+          "stops": [],
+          "duration": 1090
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T16:13:00.000Z",
+          "stops": ["SHA", "DXB"],
+          "duration": 793
+        }
+      ]
+    },
+    {
+      "price": 48836,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T06:07:00.000Z",
+          "stops": ["AUH"],
+          "duration": 1675
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T00:03:00.000Z",
+          "stops": ["DXB", "BKK", "KUL"],
+          "duration": 797
+        }
+      ]
+    },
+    {
+      "price": 87052,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T08:25:00.000Z",
+          "stops": ["IST", "SIN", "HKG"],
+          "duration": 1887
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T23:35:00.000Z",
+          "stops": [],
+          "duration": 619
+        }
+      ]
+    },
+    {
+      "price": 29888,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T14:42:00.000Z",
+          "stops": ["SIN", "IST"],
+          "duration": 1618
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T22:21:00.000Z",
+          "stops": ["AUH", "SHA"],
+          "duration": 666
+        }
+      ]
+    },
+    {
+      "price": 80928,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T16:35:00.000Z",
+          "stops": ["SIN", "BKK", "SHA"],
+          "duration": 745
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T03:43:00.000Z",
+          "stops": ["KUL"],
+          "duration": 1429
+        }
+      ]
+    },
+    {
+      "price": 52478,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T16:11:00.000Z",
+          "stops": [],
+          "duration": 1909
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T01:33:00.000Z",
+          "stops": ["BKK", "AUH"],
+          "duration": 1812
+        }
+      ]
+    },
+    {
+      "price": 20237,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T03:12:00.000Z",
+          "stops": ["SIN"],
+          "duration": 757
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T22:06:00.000Z",
+          "stops": ["SHA", "BKK", "HKG"],
+          "duration": 1693
+        }
+      ]
+    },
+    {
+      "price": 70430,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T07:31:00.000Z",
+          "stops": ["KUL", "HKG"],
+          "duration": 1071
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T21:02:00.000Z",
+          "stops": ["SHA", "BKK", "HKG"],
+          "duration": 1883
+        }
+      ]
+    },
+    {
+      "price": 93054,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T07:57:00.000Z",
+          "stops": [],
+          "duration": 1677
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T17:02:00.000Z",
+          "stops": ["IST", "AUH", "SIN"],
+          "duration": 630
+        }
+      ]
+    },
+    {
+      "price": 19504,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T10:58:00.000Z",
+          "stops": [],
+          "duration": 1360
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T12:02:00.000Z",
+          "stops": ["KUL", "HKG", "SIN"],
+          "duration": 1809
+        }
+      ]
+    },
+    {
+      "price": 25814,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T02:01:00.000Z",
+          "stops": [],
+          "duration": 1704
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T06:50:00.000Z",
+          "stops": ["DXB"],
+          "duration": 1828
+        }
+      ]
+    },
+    {
+      "price": 36911,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T06:33:00.000Z",
+          "stops": ["SIN", "AUH"],
+          "duration": 1778
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T11:20:00.000Z",
+          "stops": ["AUH", "SIN"],
+          "duration": 1369
+        }
+      ]
+    },
+    {
+      "price": 63458,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T07:04:00.000Z",
+          "stops": ["BKK"],
+          "duration": 1871
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T13:27:00.000Z",
+          "stops": ["AUH", "BKK"],
+          "duration": 1761
+        }
+      ]
+    },
+    {
+      "price": 75117,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T00:50:00.000Z",
+          "stops": ["IST"],
+          "duration": 1750
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T09:57:00.000Z",
+          "stops": ["DXB"],
+          "duration": 616
+        }
+      ]
+    },
+    {
+      "price": 66876,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T12:57:00.000Z",
+          "stops": [],
+          "duration": 1959
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T13:49:00.000Z",
+          "stops": ["HKG", "DXB"],
+          "duration": 1453
+        }
+      ]
+    },
+    {
+      "price": 66010,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T11:26:00.000Z",
+          "stops": ["SHA", "BKK"],
+          "duration": 1160
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T01:42:00.000Z",
+          "stops": [],
+          "duration": 1705
+        }
+      ]
+    },
+    {
+      "price": 34283,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T09:27:00.000Z",
+          "stops": ["SHA", "IST", "AUH"],
+          "duration": 1224
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T13:40:00.000Z",
+          "stops": ["IST"],
+          "duration": 1713
+        }
+      ]
+    },
+    {
+      "price": 43617,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T13:39:00.000Z",
+          "stops": ["AUH", "IST", "KUL"],
+          "duration": 1360
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T13:38:00.000Z",
+          "stops": ["HKG"],
+          "duration": 1536
+        }
+      ]
+    },
+    {
+      "price": 87186,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T07:26:00.000Z",
+          "stops": ["IST", "SIN"],
+          "duration": 909
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T13:30:00.000Z",
+          "stops": [],
+          "duration": 1434
+        }
+      ]
+    },
+    {
+      "price": 55782,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T22:34:00.000Z",
+          "stops": [],
+          "duration": 1497
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T12:37:00.000Z",
+          "stops": ["HKG", "SHA"],
+          "duration": 1134
+        }
+      ]
+    },
+    {
+      "price": 65117,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T16:00:00.000Z",
+          "stops": ["KUL", "SHA", "IST"],
+          "duration": 1954
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T03:07:00.000Z",
+          "stops": ["AUH", "KUL", "SHA"],
+          "duration": 1273
+        }
+      ]
+    },
+    {
+      "price": 31415,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T14:43:00.000Z",
+          "stops": ["DXB", "KUL"],
+          "duration": 698
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T12:18:00.000Z",
+          "stops": [],
+          "duration": 1429
+        }
+      ]
+    },
+    {
+      "price": 72106,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T13:07:00.000Z",
+          "stops": ["DXB", "AUH", "BKK"],
+          "duration": 685
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T07:29:00.000Z",
+          "stops": ["DXB"],
+          "duration": 1536
+        }
+      ]
+    },
+    {
+      "price": 43405,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T04:32:00.000Z",
+          "stops": ["SHA", "SIN", "BKK"],
+          "duration": 1835
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T14:54:00.000Z",
+          "stops": ["HKG", "KUL", "DXB"],
+          "duration": 1805
+        }
+      ]
+    },
+    {
+      "price": 65250,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T22:06:00.000Z",
+          "stops": ["IST"],
+          "duration": 1503
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T21:07:00.000Z",
+          "stops": ["SHA", "KUL"],
+          "duration": 1542
+        }
+      ]
+    },
+    {
+      "price": 55091,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T15:34:00.000Z",
+          "stops": ["SIN", "KUL", "DXB"],
+          "duration": 835
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T07:27:00.000Z",
+          "stops": ["AUH"],
+          "duration": 1796
+        }
+      ]
+    },
+    {
+      "price": 74555,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T12:33:00.000Z",
+          "stops": ["KUL", "AUH"],
+          "duration": 1494
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T23:20:00.000Z",
+          "stops": [],
+          "duration": 1853
+        }
+      ]
+    },
+    {
+      "price": 92509,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T17:54:00.000Z",
+          "stops": ["SHA", "AUH"],
+          "duration": 1617
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T12:26:00.000Z",
+          "stops": ["IST"],
+          "duration": 1217
+        }
+      ]
+    },
+    {
+      "price": 94055,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T00:55:00.000Z",
+          "stops": [],
+          "duration": 723
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T16:37:00.000Z",
+          "stops": ["BKK", "IST"],
+          "duration": 1152
+        }
+      ]
+    },
+    {
+      "price": 74951,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T07:09:00.000Z",
+          "stops": ["IST", "AUH"],
+          "duration": 1874
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T07:19:00.000Z",
+          "stops": ["AUH", "IST"],
+          "duration": 1801
+        }
+      ]
+    },
+    {
+      "price": 29021,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T14:35:00.000Z",
+          "stops": ["DXB", "KUL", "HKG"],
+          "duration": 1449
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T17:21:00.000Z",
+          "stops": [],
+          "duration": 1113
+        }
+      ]
+    },
+    {
+      "price": 30616,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T00:58:00.000Z",
+          "stops": ["SIN", "HKG", "DXB"],
+          "duration": 695
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T13:05:00.000Z",
+          "stops": ["HKG"],
+          "duration": 784
+        }
+      ]
+    },
+    {
+      "price": 65627,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T08:11:00.000Z",
+          "stops": [],
+          "duration": 1032
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T10:30:00.000Z",
+          "stops": ["IST", "KUL"],
+          "duration": 1138
+        }
+      ]
+    },
+    {
+      "price": 56539,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T08:57:00.000Z",
+          "stops": ["DXB", "AUH", "IST"],
+          "duration": 1415
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T01:09:00.000Z",
+          "stops": ["DXB", "AUH"],
+          "duration": 1437
+        }
+      ]
+    },
+    {
+      "price": 40244,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T00:55:00.000Z",
+          "stops": [],
+          "duration": 1479
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T16:28:00.000Z",
+          "stops": ["AUH"],
+          "duration": 1125
+        }
+      ]
+    },
+    {
+      "price": 54150,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T17:40:00.000Z",
+          "stops": ["BKK"],
+          "duration": 1898
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T15:36:00.000Z",
+          "stops": ["HKG"],
+          "duration": 1260
+        }
+      ]
+    },
+    {
+      "price": 51970,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T15:33:00.000Z",
+          "stops": ["AUH", "KUL"],
+          "duration": 1220
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T03:01:00.000Z",
+          "stops": [],
+          "duration": 1428
+        }
+      ]
+    },
+    {
+      "price": 19647,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T03:33:00.000Z",
+          "stops": ["KUL", "AUH", "SIN"],
+          "duration": 1486
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T21:01:00.000Z",
+          "stops": ["DXB", "HKG", "KUL"],
+          "duration": 799
+        }
+      ]
+    },
+    {
+      "price": 20291,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T16:08:00.000Z",
+          "stops": ["AUH", "HKG"],
+          "duration": 988
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T04:30:00.000Z",
+          "stops": ["SHA", "SIN"],
+          "duration": 890
+        }
+      ]
+    },
+    {
+      "price": 25937,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T17:57:00.000Z",
+          "stops": [],
+          "duration": 1369
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T04:22:00.000Z",
+          "stops": ["BKK"],
+          "duration": 856
+        }
+      ]
+    },
+    {
+      "price": 50155,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T05:05:00.000Z",
+          "stops": ["IST", "KUL", "BKK"],
+          "duration": 821
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T12:55:00.000Z",
+          "stops": ["KUL", "HKG", "AUH"],
+          "duration": 1781
+        }
+      ]
+    },
+    {
+      "price": 49407,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T07:23:00.000Z",
+          "stops": ["HKG", "IST", "BKK"],
+          "duration": 1605
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T05:58:00.000Z",
+          "stops": ["DXB", "AUH"],
+          "duration": 1160
+        }
+      ]
+    },
+    {
+      "price": 93087,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T11:34:00.000Z",
+          "stops": ["HKG"],
+          "duration": 1661
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T06:12:00.000Z",
+          "stops": ["DXB", "KUL"],
+          "duration": 1699
+        }
+      ]
+    },
+    {
+      "price": 19482,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T06:35:00.000Z",
+          "stops": [],
+          "duration": 1517
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T13:54:00.000Z",
+          "stops": ["BKK"],
+          "duration": 1404
+        }
+      ]
+    },
+    {
+      "price": 42991,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T12:40:00.000Z",
+          "stops": [],
+          "duration": 1847
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T00:20:00.000Z",
+          "stops": ["SHA", "DXB", "IST"],
+          "duration": 1224
+        }
+      ]
+    },
+    {
+      "price": 59744,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T05:06:00.000Z",
+          "stops": [],
+          "duration": 715
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T13:16:00.000Z",
+          "stops": [],
+          "duration": 1159
+        }
+      ]
+    },
+    {
+      "price": 54592,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T15:41:00.000Z",
+          "stops": ["KUL"],
+          "duration": 902
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T17:13:00.000Z",
+          "stops": ["IST"],
+          "duration": 1899
+        }
+      ]
+    },
+    {
+      "price": 52145,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T15:54:00.000Z",
+          "stops": ["KUL", "AUH", "BKK"],
+          "duration": 1468
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T00:47:00.000Z",
+          "stops": ["SIN"],
+          "duration": 745
+        }
+      ]
+    },
+    {
+      "price": 80301,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T16:51:00.000Z",
+          "stops": [],
+          "duration": 671
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T01:26:00.000Z",
+          "stops": ["AUH", "SIN"],
+          "duration": 1447
+        }
+      ]
+    },
+    {
+      "price": 48678,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T09:53:00.000Z",
+          "stops": ["AUH", "IST"],
+          "duration": 1803
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T05:31:00.000Z",
+          "stops": ["SHA", "BKK"],
+          "duration": 1064
+        }
+      ]
+    },
+    {
+      "price": 88406,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T11:29:00.000Z",
+          "stops": ["AUH"],
+          "duration": 914
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T23:04:00.000Z",
+          "stops": ["AUH"],
+          "duration": 1113
+        }
+      ]
+    },
+    {
+      "price": 46050,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T15:34:00.000Z",
+          "stops": ["IST", "HKG"],
+          "duration": 1889
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T23:04:00.000Z",
+          "stops": ["SHA", "AUH"],
+          "duration": 998
+        }
+      ]
+    },
+    {
+      "price": 39612,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T06:05:00.000Z",
+          "stops": ["AUH", "SIN"],
+          "duration": 1551
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T07:22:00.000Z",
+          "stops": [],
+          "duration": 1687
+        }
+      ]
+    },
+    {
+      "price": 77916,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T03:49:00.000Z",
+          "stops": ["KUL", "HKG", "IST"],
+          "duration": 1641
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T22:36:00.000Z",
+          "stops": ["SHA"],
+          "duration": 1872
+        }
+      ]
+    },
+    {
+      "price": 33554,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T12:49:00.000Z",
+          "stops": ["DXB", "SHA", "IST"],
+          "duration": 1169
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T07:12:00.000Z",
+          "stops": ["IST"],
+          "duration": 1698
+        }
+      ]
+    },
+    {
+      "price": 51346,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T03:57:00.000Z",
+          "stops": [],
+          "duration": 667
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T17:24:00.000Z",
+          "stops": ["HKG"],
+          "duration": 1551
+        }
+      ]
+    },
+    {
+      "price": 17715,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T04:03:00.000Z",
+          "stops": [],
+          "duration": 712
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T21:13:00.000Z",
+          "stops": [],
+          "duration": 606
+        }
+      ]
+    },
+    {
+      "price": 34181,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T21:19:00.000Z",
+          "stops": ["AUH", "DXB", "SIN"],
+          "duration": 633
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T07:47:00.000Z",
+          "stops": ["KUL", "IST", "HKG"],
+          "duration": 1209
+        }
+      ]
+    },
+    {
+      "price": 40421,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T13:39:00.000Z",
+          "stops": ["DXB", "SIN", "SHA"],
+          "duration": 1610
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T13:18:00.000Z",
+          "stops": ["AUH", "HKG", "SIN"],
+          "duration": 785
+        }
+      ]
+    },
+    {
+      "price": 41878,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T08:55:00.000Z",
+          "stops": [],
+          "duration": 1212
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T02:10:00.000Z",
+          "stops": [],
+          "duration": 895
+        }
+      ]
+    },
+    {
+      "price": 52914,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T14:29:00.000Z",
+          "stops": ["IST"],
+          "duration": 1188
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T13:57:00.000Z",
+          "stops": ["SHA"],
+          "duration": 701
+        }
+      ]
+    },
+    {
+      "price": 21442,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T12:39:00.000Z",
+          "stops": ["SIN", "SHA"],
+          "duration": 1294
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T07:10:00.000Z",
+          "stops": [],
+          "duration": 946
+        }
+      ]
+    },
+    {
+      "price": 72763,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T23:51:00.000Z",
+          "stops": ["SHA", "KUL", "DXB"],
+          "duration": 604
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T16:27:00.000Z",
+          "stops": ["SHA"],
+          "duration": 1019
+        }
+      ]
+    },
+    {
+      "price": 29172,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T17:06:00.000Z",
+          "stops": [],
+          "duration": 847
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T13:04:00.000Z",
+          "stops": ["IST"],
+          "duration": 1121
+        }
+      ]
+    },
+    {
+      "price": 85694,
+      "carrier": "S7",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T03:00:00.000Z",
+          "stops": ["DXB", "KUL"],
+          "duration": 1715
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T07:09:00.000Z",
+          "stops": ["HKG", "KUL"],
+          "duration": 1012
+        }
+      ]
+    },
+    {
+      "price": 41787,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T08:01:00.000Z",
+          "stops": ["HKG", "SIN", "BKK"],
+          "duration": 1404
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T17:20:00.000Z",
+          "stops": ["DXB", "KUL", "AUH"],
+          "duration": 1451
+        }
+      ]
+    },
+    {
+      "price": 90022,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-11T21:49:00.000Z",
+          "stops": ["IST", "SHA"],
+          "duration": 1005
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T15:03:00.000Z",
+          "stops": ["AUH", "SHA"],
+          "duration": 942
+        }
+      ]
+    },
+    {
+      "price": 53622,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T12:57:00.000Z",
+          "stops": ["BKK", "HKG"],
+          "duration": 1071
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-03T21:33:00.000Z",
+          "stops": ["SIN"],
+          "duration": 1603
+        }
+      ]
+    },
+    {
+      "price": 66435,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T08:05:00.000Z",
+          "stops": ["BKK"],
+          "duration": 1975
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T11:04:00.000Z",
+          "stops": [],
+          "duration": 601
+        }
+      ]
+    },
+    {
+      "price": 84930,
+      "carrier": "FV",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T04:31:00.000Z",
+          "stops": [],
+          "duration": 1814
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T04:31:00.000Z",
+          "stops": [],
+          "duration": 1015
+        }
+      ]
+    },
+    {
+      "price": 65950,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T06:02:00.000Z",
+          "stops": [],
+          "duration": 1965
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T06:49:00.000Z",
+          "stops": ["BKK"],
+          "duration": 1383
+        }
+      ]
+    },
+    {
+      "price": 44898,
+      "carrier": "EY",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T08:21:00.000Z",
+          "stops": ["BKK", "IST", "KUL"],
+          "duration": 1388
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T05:04:00.000Z",
+          "stops": [],
+          "duration": 1843
+        }
+      ]
+    },
+    {
+      "price": 93111,
+      "carrier": "MH",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T05:23:00.000Z",
+          "stops": ["SIN"],
+          "duration": 1972
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T15:52:00.000Z",
+          "stops": ["AUH", "SHA"],
+          "duration": 1577
+        }
+      ]
+    },
+    {
+      "price": 67598,
+      "carrier": "SU",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T12:05:00.000Z",
+          "stops": ["IST", "KUL", "SHA"],
+          "duration": 1438
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T03:49:00.000Z",
+          "stops": ["BKK"],
+          "duration": 1377
+        }
+      ]
+    },
+    {
+      "price": 91623,
+      "carrier": "EK",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T16:02:00.000Z",
+          "stops": ["AUH", "DXB", "SIN"],
+          "duration": 1449
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T08:23:00.000Z",
+          "stops": ["BKK", "DXB", "IST"],
+          "duration": 1689
+        }
+      ]
+    },
+    {
+      "price": 62107,
+      "carrier": "TG",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "2022-02-12T04:10:00.000Z",
+          "stops": ["KUL"],
+          "duration": 916
+        },
+        {
+          "origin": "HKT",
+          "destination": "MOW",
+          "date": "2022-03-04T14:21:00.000Z",
+          "stops": ["SIN"],
+          "duration": 1011
+        }
+      ]
+    }
+  ],
+  "stop": false
+}
