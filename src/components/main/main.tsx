@@ -5,20 +5,7 @@ import { Checkbox } from "@chakra-ui/react";
 import { useEffect, useState } from "react";
 import { useQuery } from "react-query";
 import axios from "axios";
-
-type dataType = {
-  price: number;
-  carrier: string;
-  segments: Array<segmentType>;
-};
-
-type segmentType = {
-  origin: string;
-  destination: string;
-  date: string;
-  stops: Array<string>;
-  duration: number;
-};
+import { filterData } from "../../functions";
 
 const MainPage = () => {
   const [sales, setsales] = useState([]);
@@ -46,61 +33,12 @@ const MainPage = () => {
   }, [sales]);
 
 
-  const filterData = async (
-    noneStop: boolean,
-    oneStop: boolean,
-    twoStop: boolean,
-    threeStop: boolean
-  ) => {
-    let response: Array<dataType> = [];
-    sales.map((item: dataType) => {
-      let segments: Array<segmentType> = [];
-      if (noneStop) {
-        item?.segments?.map((item: segmentType) => {
-          if (item.stops.length === 0) {
-            segments.push(item);
-          }
-        });
-      }
-      if (oneStop) {
-        item?.segments?.map((item: segmentType) => {
-          if (item.stops.length === 1) {
-            segments.push(item);
-          }
-        });
-      }
-      if (twoStop) {
-        item?.segments?.map((item: segmentType) => {
-          if (item.stops.length === 2) {
-            segments.push(item);
-          }
-        });
-      }
-      if (threeStop) {
-        item?.segments?.map((item: segmentType) => {
-          if (item.stops.length === 3) {
-            segments.push(item);
-          }
-        });
-      }
-      if (segments?.length > 0) {
-        response.push({
-          ...item,
-          segments: segments,
-        });
-      }
-    });
-    // console.log(response);
-    setfilteredData(response.slice(0, 5))
-  };
-
-
   useEffect(() => {
     (async () => {
       if(filters.all){
-        await filterData(filters.notPer, filters.per1, filters.per2, filters.per3);
+        await filterData(filters.notPer, filters.per1, filters.per2, filters.per3, sales).then(res => setfilteredData(res));
       }else{
-        await filterData(false, false, false, false);
+        await filterData(false, false, false, false, sales).then(res => setfilteredData(res));
       }
     })();
   }, [filters]);
@@ -109,7 +47,7 @@ const MainPage = () => {
     <div className="main_class">
       <VStack>
         <Container maxW="container.xl">
-          <Grid templateColumns="repeat(7, 1fr)" gap={4}>
+          <Grid columns={[2, null, 3]} templateColumns="repeat(7, 1fr)" gap={4}>
             <GridItem colSpan={2}>
               <div className="filter_wrapper">
                 <p>Количество перасадок</p>
